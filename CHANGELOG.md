@@ -1,3 +1,41 @@
+## [v0.29.5]
+> 2016-06-18
+
+- **Feature:** Allow function refs on dropdown components ([#1948])
+- **Bugfix:** Fix bugs with tab selection and state management ([#1956])
+
+[v0.29.5]: https://github.com/react-bootstrap/react-bootstrap/compare/v0.29.4...v0.29.5
+[#1948]: https://github.com/react-bootstrap/react-bootstrap/pull/1948
+[#1956]: https://github.com/react-bootstrap/react-bootstrap/pull/1956
+
+
+## [v0.29.4]
+> 2016-05-10
+
+- **Feature:** Add `inputRef` to `<Checkbox>` and `<Radio>` ([#1865])
+- **Bugfix:** Persist `<Panel>` events before modifying them ([#1864])
+- **Bugfix:** Add back `eventKey` to props for custom pagination buttons ([#1876])
+
+[v0.29.4]: https://github.com/react-bootstrap/react-bootstrap/compare/v0.29.3...v0.29.4
+[#1864]: https://github.com/react-bootstrap/react-bootstrap/pull/1864
+[#1865]: https://github.com/react-bootstrap/react-bootstrap/pull/1865
+[#1876]: https://github.com/react-bootstrap/react-bootstrap/pull/1876
+
+
+## [v0.29.3]
+> 2016-04-28
+
+- **Feature:** Add `unmountOnExit` support to tabs ([#1823])
+- **Bugfix:** Do not pass `onSelect` to DOM nodes ([#1861])
+- **Bugfix:** Do not throw error when tab group has no panes ([#1862])
+- **Bugfix:** Fix setting `id` for `<NavItem>`s for tabs ([#1862])
+
+[v0.29.3]: https://github.com/react-bootstrap/react-bootstrap/compare/v0.29.2...v0.29.3
+[#1823]: https://github.com/react-bootstrap/react-bootstrap/pull/1823
+[#1861]: https://github.com/react-bootstrap/react-bootstrap/pull/1861
+[#1862]: https://github.com/react-bootstrap/react-bootstrap/pull/1862
+
+
 ## [v0.29.2]
 > 2016-04-22
 
